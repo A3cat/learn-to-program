@@ -1,3 +1,5 @@
+//2023.12.4
+
 #include<stdlib.h>
 #include<stdio.h>
 #define MAX_SIZE 20
